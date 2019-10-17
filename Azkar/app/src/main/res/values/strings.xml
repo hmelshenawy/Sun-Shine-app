@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Azkar</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="az1">اللهم إنك خلقت نفسي وأنت توفّاها, لك مماتها ومحياها إن أحييتها فاحفظها, وإن أمتها فاغفر لها اللهم إني أسألك العافية</string>
+    <string name="az2">أعوذ بك من شر كل شيء أنت أخذ بناصيته اللهم أنت الأول فليس قبلك شيء وأنت الآخر فليس بعدك شيء وأنت الظاهر فليس فوقك شيء
+</string>
+    <string name="az3">بإسمك ربي وضعت جنبي وبك أرفعه فإن أمسكت نفسي فارحمها وإن أرسلتها فاحفظها بما تحفظ به عبادك الصالحين
+</string>
+</resources>

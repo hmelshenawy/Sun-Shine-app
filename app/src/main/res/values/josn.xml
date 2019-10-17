@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--<?xml version="1.0" encoding="UTF-8" ?>-->
+    <!--<location>-->
+        <!--<name>Cairo</name>-->
+        <!--<region>Al Qahirah</region>-->
+        <!--<country>Egypt</country>-->
+        <!--<lat>30.05</lat>-->
+        <!--<lon>31.25</lon>-->
+        <!--<tz_id>Africa/Cairo</tz_id>-->
+        <!--<localtime_epoch>1566248262</localtime_epoch>-->
+        <!--<localtime>2019-08-19 22:57</localtime>-->
+    <!--</location>-->
+    <!--<current>-->
+        <!--<last_updated_epoch>1566247513</last_updated_epoch>-->
+        <!--<last_updated>2019-08-19 22:45</last_updated>-->
+        <!--<temp_c>27</temp_c>-->
+        <!--<is_day>0</is_day>-->
+        <!--<condition>-->
+            <!--<text>Clear</text>-->
+            <!--<icon>//cdn.apixu.com/weather/64x64/night/113.png</icon>-->
+            <!--<code>1000</code>-->
+        <!--</condition>-->
+        <!--<wind_mph>8.1</wind_mph>-->
+        <!--<wind_kph>13</wind_kph>-->
+        <!--<wind_degree>360</wind_degree>-->
+        <!--<wind_dir>N</wind_dir>-->
+        <!--<pressure_mb>1011</pressure_mb>-->
+        <!--<pressure_in>30.3</pressure_in>-->
+        <!--<precip_mm>0</precip_mm>-->
+        <!--<precip_in>0</precip_in>-->
+        <!--<humidity>62</humidity>-->
+        <!--<cloud>0</cloud>-->
+        <!--<feelslike_c>28.5</feelslike_c>-->
+        <!--<feelslike_f>83.3</feelslike_f>-->
+        <!--<vis_km>10</vis_km>-->
+        <!--<vis_miles>6</vis_miles>-->
+        <!--<uv>0</uv>-->
+        <!--<gust_mph>21</gust_mph>-->
+        <!--<gust_kph>33.8</gust_kph>-->
+    <!--</current>-->
+    <!--<forecast>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-19</date>-->
+            <!--<date_epoch>1566172800</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>35.3</maxtemp_c>-->
+                <!--<mintemp_c>25</mintemp_c>-->
+                <!--<avgtemp_c>29.6</avgtemp_c>-->
+                <!--<maxwind_mph>15.9</maxwind_mph>-->
+                <!--<maxwind_kph>25.6</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>47</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Partly cloudy</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>-->
+                    <!--<code>1003</code>-->
+                <!--</condition>-->
+                <!--<uv>4</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:25 AM</sunrise>-->
+                <!--<sunset>06:32 PM</sunset>-->
+                <!--<moonrise>09:00 PM</moonrise>-->
+                <!--<moonset>08:34 AM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-20</date>-->
+            <!--<date_epoch>1566259200</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>38.3</maxtemp_c>-->
+                <!--<mintemp_c>22.7</mintemp_c>-->
+                <!--<avgtemp_c>31.4</avgtemp_c>-->
+                <!--<maxwind_mph>17.7</maxwind_mph>-->
+                <!--<maxwind_kph>28.4</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>52</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Partly cloudy</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>-->
+                    <!--<code>1003</code>-->
+                <!--</condition>-->
+                <!--<uv>9.2</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:25 AM</sunrise>-->
+                <!--<sunset>06:31 PM</sunset>-->
+                <!--<moonrise>09:30 PM</moonrise>-->
+                <!--<moonset>09:27 AM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-21</date>-->
+            <!--<date_epoch>1566345600</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>40.7</maxtemp_c>-->
+                <!--<mintemp_c>24.8</mintemp_c>-->
+                <!--<avgtemp_c>33</avgtemp_c>-->
+                <!--<maxwind_mph>17.9</maxwind_mph>-->
+                <!--<maxwind_kph>28.8</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>49</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Sunny</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/113.png</icon>-->
+                    <!--<code>1000</code>-->
+                <!--</condition>-->
+                <!--<uv>9.5</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:26 AM</sunrise>-->
+                <!--<sunset>06:30 PM</sunset>-->
+                <!--<moonrise>10:02 PM</moonrise>-->
+                <!--<moonset>10:20 AM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-22</date>-->
+            <!--<date_epoch>1566432000</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>39.1</maxtemp_c>-->
+                <!--<mintemp_c>23.1</mintemp_c>-->
+                <!--<avgtemp_c>31.5</avgtemp_c>-->
+                <!--<maxwind_mph>18.6</maxwind_mph>-->
+                <!--<maxwind_kph>29.9</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>48</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Sunny</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/113.png</icon>-->
+                    <!--<code>1000</code>-->
+                <!--</condition>-->
+                <!--<uv>9.7</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:26 AM</sunrise>-->
+                <!--<sunset>06:29 PM</sunset>-->
+                <!--<moonrise>10:37 PM</moonrise>-->
+                <!--<moonset>11:15 AM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-23</date>-->
+            <!--<date_epoch>1566518400</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>39.5</maxtemp_c>-->
+                <!--<mintemp_c>22.7</mintemp_c>-->
+                <!--<avgtemp_c>31.6</avgtemp_c>-->
+                <!--<maxwind_mph>17.2</maxwind_mph>-->
+                <!--<maxwind_kph>27.7</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>50</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Partly cloudy</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>-->
+                    <!--<code>1003</code>-->
+                <!--</condition>-->
+                <!--<uv>9.7</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:27 AM</sunrise>-->
+                <!--<sunset>06:28 PM</sunset>-->
+                <!--<moonrise>11:16 PM</moonrise>-->
+                <!--<moonset>12:12 PM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-24</date>-->
+            <!--<date_epoch>1566604800</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>44.4</maxtemp_c>-->
+                <!--<mintemp_c>22.9</mintemp_c>-->
+                <!--<avgtemp_c>34.2</avgtemp_c>-->
+                <!--<maxwind_mph>17.9</maxwind_mph>-->
+                <!--<maxwind_kph>28.8</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>51</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Partly cloudy</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>-->
+                    <!--<code>1003</code>-->
+                <!--</condition>-->
+                <!--<uv>9.4</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:27 AM</sunrise>-->
+                <!--<sunset>06:27 PM</sunset>-->
+                <!--<moonrise>11:59 PM</moonrise>-->
+                <!--<moonset>01:11 PM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+        <!--<forecastday>-->
+            <!--<date>2019-08-25</date>-->
+            <!--<date_epoch>1566691200</date_epoch>-->
+            <!--<day>-->
+                <!--<maxtemp_c>41.7</maxtemp_c>-->
+                <!--<mintemp_c>25.9</mintemp_c>-->
+                <!--<avgtemp_c>34.2</avgtemp_c>-->
+                <!--<maxwind_mph>17.9</maxwind_mph>-->
+                <!--<maxwind_kph>28.8</maxwind_kph>-->
+                <!--<totalprecip_mm>0</totalprecip_mm>-->
+                <!--<totalprecip_in>0</totalprecip_in>-->
+                <!--<avgvis_km>10</avgvis_km>-->
+                <!--<avgvis_miles>6</avgvis_miles>-->
+                <!--<avghumidity>48</avghumidity>-->
+                <!--<condition>-->
+                    <!--<text>Partly cloudy</text>-->
+                    <!--<icon>//cdn.apixu.com/weather/64x64/day/116.png</icon>-->
+                    <!--<code>1003</code>-->
+                <!--</condition>-->
+                <!--<uv>8</uv>-->
+            <!--</day>-->
+            <!--<astro>-->
+                <!--<sunrise>05:28 AM</sunrise>-->
+                <!--<sunset>06:26 PM</sunset>-->
+                <!--<moonrise>No moonrise</moonrise>-->
+                <!--<moonset>02:11 PM</moonset>-->
+            <!--</astro>-->
+        <!--</forecastday>-->
+    <!--</forecast>-->
+    <!--<alert />-->
+</resources>

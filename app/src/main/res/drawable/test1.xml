@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+
+        <shape android:shape="rectangle"
+            android:visible="true">
+            <stroke
+                android:width="8dp"
+                android:color="@android:color/holo_orange_light"></stroke>
+
+            <corners
+                android:radius="20dp"/>
+
+                />
+
+        </shape>
+
+    </item>
+
+    <item>
+
+        <shape android:shape="oval"
+            android:innerRadius="@dimen/cardview_compat_inset_shadow"
+            android:thickness="8dp"
+            android:visible="true">
+
+            <stroke android:color="@android:color/holo_red_light"
+                android:width="9dp"></stroke>
+
+
+
+
+        </shape>
+
+
+    </item>
+</selector>
